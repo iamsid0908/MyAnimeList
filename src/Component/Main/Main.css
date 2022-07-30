@@ -1,0 +1,19 @@
+#com{
+    color: white;
+ border: 3px solid red;
+}
+.bigpage{
+    height: 80vh;
+    border: 3px solid rgb(221, 213, 213);
+    background-image: url(10817.jpg);
+    background-repeat: no-repeat;
+ 
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.data{
+    color: white;
+}

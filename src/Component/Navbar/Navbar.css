@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.ui-el{
+    color: white;
+    text-decoration: none;
+    display: flex;
+    border: 2px solid red;
+    /* gap: 100px; */
+    height: 10vh;
+    
+    align-items: center;
+}
+.ui-el li{
+    margin-left: 1.5rem;
+}
+
+@media all and(max-width:400px){
+    .ui-el li{
+        margin: 10px;
+        border: 2px solid white;
+    }
+  }
